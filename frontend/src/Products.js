@@ -1,0 +1,95 @@
+const products = [
+	{
+		_id: "1",
+		name: "product Name 1",
+		image: "https://via.placeholder.com/400x400",
+		description:
+			"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type s",
+		brand: "Apple",
+		catagory: "Electronics",
+		price: "50",
+		countInStock: 5,
+		rating: 4.5,
+		numberReview: 5,
+	},
+	{
+		_id: "2",
+		name: "product Name 2",
+		image: "https://via.placeholder.com/400x400",
+		description:
+			"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type s",
+		brand: "Apple",
+		catagory: "Electronics",
+		price: "50",
+		countInStock: 5,
+		rating: 3.5,
+		numberReview: 8,
+	},
+	{
+		_id: "3",
+		name: "product Name 3",
+		image: "https://via.placeholder.com/400x400",
+		description:
+			"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type s",
+		brand: "Apple",
+		catagory: "Electronics",
+		price: "50",
+		countInStock: 5,
+		rating: 4.5,
+		numberReview: 6,
+	},
+	{
+		_id: "4",
+		name: "product Name 4",
+		image: "https://via.placeholder.com/400x400",
+		description:
+			"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type s",
+		brand: "Apple",
+		catagory: "Electronics",
+		price: "50",
+		countInStock: 5,
+		rating: 5,
+		numberReview: 9,
+	},
+	{
+		_id: "5",
+		name: "product Name 5",
+		image: "https://via.placeholder.com/400x400",
+		description:
+			"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type s",
+		brand: "Apple",
+		catagory: "Electronics",
+		price: "50",
+		countInStock: 5,
+		rating: 3.5,
+		numberReview: 6,
+	},
+	{
+		_id: "6",
+		name: "product Name 6",
+		image: "https://via.placeholder.com/400x400",
+		description:
+			"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type s",
+		brand: "Apple",
+		catagory: "Electronics",
+		price: "50",
+		countInStock: 5,
+		rating: 2.5,
+		numberReview: 7,
+	},
+	{
+		_id: "7",
+		name: "product Name 7",
+		image: "https://via.placeholder.com/400x400",
+		description:
+			"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type s",
+		brand: "Apple",
+		catagory: "Electronics",
+		price: "50",
+		countInStock: 5,
+		rating: 4.5,
+		numberReview: 7,
+	},
+];
+
+export default products;
